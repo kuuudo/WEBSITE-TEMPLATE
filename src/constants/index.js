@@ -178,6 +178,6 @@ export const projects = [
     ],
 
     image: sketcher,
-    source_code_link: "https://github.com/lohitkolluri/Image_to_Pencil_Sketch_App",
+    source_code_link: "https://github.com/kuuudo/WEBSITE-TEMPLATE",
   },
 ];
