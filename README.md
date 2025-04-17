@@ -47,8 +47,7 @@ mindmap
 
 ## 🚀 Demo
 
-Experience the live portfolio at [https://sam-website.vercel.app
-]([https://github.com/kuuudo/Portfolio-Website](https://sam-website.vercel.app
+Experience the live portfolio at [https://sam-website.vercel.app]([https://github.com/kuuudo/Portfolio-Website](https://sam-website.vercel.app
 ))
 
 ## 🛠️ Installation
@@ -56,7 +55,7 @@ Experience the live portfolio at [https://sam-website.vercel.app
 1️⃣ Clone the repository:
 
 ```bash
-git clone https://github.com/lohitkolluri/Portfolio-Website
+git clone https://github.com/kuuudo/WEBSITE-TEMPLATE
 ```
 
 2️⃣ Navigate to project directory:
@@ -132,7 +131,6 @@ npm run dev
 
 <div align="center">
 
-MIT License © [Lohit Kolluri](LICENSE)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
